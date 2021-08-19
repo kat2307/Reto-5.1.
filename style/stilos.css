@@ -1,0 +1,82 @@
+body{
+    background-color: antiquewhite;
+    margin: 20px;
+}
+h1{
+    text-align: center;
+    margin: 25px;
+}
+
+p,h1,h2,h3,label{
+    font-family: 'Shadows Into Light', cursive;
+}
+
+header{
+    width: 100%;
+    height: 215px;
+   /*  display: flex; */
+    
+ 
+}
+
+.img-logo{
+    width: 120px;
+    height: 120px;
+    margin: 10px;
+}
+
+#logo-page{
+    width: 120px;
+    height: 120px;
+    border-radius: 10px;
+    
+}
+
+
+.nav-menu{
+        width: 100%;
+        display:flex;
+        margin:0px;
+        float: left;
+              
+}
+
+nav{
+    width: 50%;
+    display: inline-block;
+    justify-content:space-between;
+    
+}
+
+li{
+    list-style:none;
+    display: inline-block;
+    
+    
+}
+
+a{
+    margin-left: 40px;
+    margin-top: 25px;
+}
+
+
+    p{
+        text-align: center;
+    }
+
+    .img.cont{
+        margin-left: 50px;
+    }
+
+    
+    .img-foot{
+        justify-content: center;
+        display: inline-block;
+
+    }
+
+    input,button{
+        border-radius: 30px;
+    }
+
